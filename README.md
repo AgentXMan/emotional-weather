@@ -8,3 +8,4 @@ heres the youtube video link
 
 https://youtu.be/u5Pqa7X6SvI
 
+open weather api: https://openweathermap.org/api
